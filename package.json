@@ -1,0 +1,11 @@
+{
+  "name": "fed-e-task-02-02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/GouYh/fed-e-task-02-02.git",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "marked": "^1.1.0"
+  }
+}
